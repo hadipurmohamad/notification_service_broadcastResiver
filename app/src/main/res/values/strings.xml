@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test_service_contentProvider</string>
+    <string name="notifiation">notifiation</string>
+    <string name="x">X</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="button1">Button</string>
+    <string name="textview">TextView</string>
+</resources>
